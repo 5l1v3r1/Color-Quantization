@@ -8,5 +8,5 @@ In this project the names of the algorithms written below are used:
     Popularity Algorithm (popularity.m)
     Median Cut Algorithm (mediancutMain.m)
     K-Means Algorithm (kkmeans.m)
->>>>>>> origin/master
+
 
